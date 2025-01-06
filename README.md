@@ -1,19 +1,22 @@
 # CRUD-with-.net-8-web-api
+
 This project demonstrates a robust implementation of a CRUD (Create, Read, Update, Delete) Web API built using .NET 8, showcasing modern, scalable, and efficient web development practices.
 
 #Key Features:
 
-CRUD Operations: Fully functional API endpoints for performing Create, Read, Update, and Delete operations on entities.
+1. CRUD Operations: Fully functional API endpoints for performing Create, Read, Update, and Delete operations on entities.
 
-Layered Architecture: Implements clean architecture principles with distinct layers for controllers, services, and data access, ensuring maintainability and scalability.
+2. Layered Architecture: Implements clean architecture principles with distinct layers for controllers, services, and data access, ensuring maintainability and scalability.
 
-Error Handling: Centralized exception handling middleware for streamlined debugging and production readiness.
+3. Error Handling: Centralized exception handling middleware for streamlined debugging and production readiness.
+
+4. Data Access: Implements Dapper, ADO.NET, and Entity Framework to interact efficiently with the relational database, showcasing flexibility and best practices for working with stored procedures, which are organized in a dedicated folder (SqlScripts) within the repository.
 
 #Technologies Used:
 
-.NET 8: Latest framework for high-performance web APIs.
+1. .NET 8: Latest framework for high-performance web APIs.
 
-SQL Server: For persistent and reliable data storage.
+2. SQL Server: For persistent and reliable data storage (stored procedures).
 
 #Why This Project Stands Out:
 
