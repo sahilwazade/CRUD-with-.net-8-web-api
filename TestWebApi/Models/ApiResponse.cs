@@ -28,7 +28,7 @@ namespace TestWebApi.Models
         [NotMapped]
         public bool IsSuccess { get; set; }
         [NotMapped]
-        public string Message { get; set; } = "";
+        public string? Message { get; set; } = string.Empty;
     }
 
 }
