@@ -12,6 +12,8 @@ This project demonstrates a robust implementation of a CRUD (Create, Read, Updat
 
 4. Data Access: Implements Dapper, ADO.NET, and Entity Framework to interact efficiently with the relational database, showcasing flexibility and best practices for working with stored procedures, which are organized in a dedicated folder (SqlScripts) within the repository.
 
+5. JWT Authentication : Secure user authentication with customizable claims, token expiration, and refresh support, using HMAC SHA-256 for integrity and lightweight.
+
 #Technologies Used:
 
 1. .NET 8: Latest framework for high-performance web APIs.

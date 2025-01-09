@@ -147,3 +147,4 @@ C:\Users\Sahil\source\repos\TestWebApi\TestWebApi\obj\Debug\net8.0\refint\TestWe
 C:\Users\Sahil\source\repos\TestWebApi\TestWebApi\obj\Debug\net8.0\TestWebApi.pdb
 C:\Users\Sahil\source\repos\TestWebApi\TestWebApi\obj\Debug\net8.0\TestWebApi.genruntimeconfig.cache
 C:\Users\Sahil\source\repos\TestWebApi\TestWebApi\obj\Debug\net8.0\ref\TestWebApi.dll
+C:\Users\Sahil\source\repos\TestWebApi\TestWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
